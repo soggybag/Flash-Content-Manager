@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;		public class OrangeBox extends MovieClip {				public function OrangeBox() {					}				public function destroy():void {					}	}}
